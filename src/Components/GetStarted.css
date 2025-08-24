@@ -1,0 +1,32 @@
+.inner-container {
+    gap: 1.5rem;
+    background: linear-gradient(145deg, #3a56d8, #4c6fff); /* gradient bg for depth */
+    padding: 2rem;
+    border-radius: 15px;
+    border: 3px solid #5d77d6;
+    text-align: center;
+
+    /* Glow + shadow */
+    box-shadow: 0 0 15px rgba(93, 119, 214, 0.8),
+                0 0 30px rgba(93, 119, 214, 0.5);
+    transition: all 0.3s ease-in-out;
+}
+
+.inner-container:hover {
+    box-shadow: 0 0 25px rgba(93, 119, 214, 1),
+                0 0 50px rgba(93, 119, 214, 0.7);
+}
+
+.inner-container .primaryText{
+    color: white;
+    font-weight: 600;
+}
+.inner-container .secondaryText{
+    color: rgba(255, 255, 255, 0.587);
+}
+.inner-container .button {
+    background: #5a73d7;
+    border: 2px solid white;
+    box-shadow: var(--shadow);
+    border-radius: 10px;
+}
