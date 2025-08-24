@@ -1,12 +1,25 @@
-# React + Vite
+# 🏡 Real Estate Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fully responsive, and stable real estate website built using **React.js**, featuring smooth animations and custom CSS for an engaging user experience. The website provides a clean UI and intuitive UX, ideal for showcasing property listings effectively.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚛️ Built with **React.js**
+- 🎨 Smooth **CSS animations** for transitions and effects
+- 📱 Fully **responsive design** – mobile, tablet, and desktop-friendly
+- 🧭 Easy navigation and structured UI/UX
+- 🔒 Stable and optimized performance
+- 🏘️ Dynamic property listing sections
+- 📷 Image galleries and interactive components
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js**
+- **HTML5 & CSS3**
+- **JavaScript (ES6+)**
+- **React Router**
+- **Responsive CSS (Flexbox, Grid)**
+- **Animation Libraries / Custom CSS Transitions**
+
+## 📂 Project Structure (Simplified)
+
