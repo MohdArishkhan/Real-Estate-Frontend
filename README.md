@@ -21,5 +21,3 @@ A modern, fully responsive, and stable real estate website built using **React.j
 - **Responsive CSS (Flexbox, Grid)**
 - **Animation Libraries / Custom CSS Transitions**
 
-## 📂 Project Structure (Simplified)
-
