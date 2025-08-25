@@ -106,3 +106,17 @@
     padding: 0.6rem 0.9rem;
 }
 }
+@media (min-width: 300px) and (max-width: 380px) {
+  .search-bar {
+    padding: 0.6rem 0.8rem;
+  }
+
+  .search-bar input {
+    flex: 1; 
+    min-width: 0;
+  }
+
+  .search-bar button {
+    flex-shrink: 0;
+  }
+}
