@@ -2,8 +2,8 @@
 
 A fully responsive and stable real estate website built using **React.js**. This project features smooth animations and custom CSS to create an engaging and clean user experience, perfect for showcasing property listings effectively.
 
-![Real Estate Website Screenshot](https://via.placeholder.com/800x400.png?text=Website+Screenshot+Here)
-![Uploading Screenshot 2025-09-17 165316.png…]()
+![Real Estate Website Screenshot]<img width="1350" height="650" alt="Screenshot 2025-09-17 165316" src="https://github.com/user-attachments/assets/2a248ec1-ea89-4240-be0e-f5b1c5712a08" />
+
 
 
 **Live Demo:** [Real-Estate-Landing-Page](https://real-estate-frontend-3uew.vercel.app/)
